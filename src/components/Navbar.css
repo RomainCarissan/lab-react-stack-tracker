@@ -1,0 +1,15 @@
+.Navbar {
+  background: #2d1693;
+  display: flex;
+  height: 5rem;
+  color: whitesmoke;
+  justify-content: space-between;
+  padding: 0 4rem;
+  align-items: center;
+  position: sticky;
+  top: 0;
+}
+
+.Navbar a {
+  color: aliceblue;
+}
